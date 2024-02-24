@@ -1,0 +1,2 @@
+135.148.76.230:7777=lucas8662.github.io/images/gifTokyo.gif
+135.148.153.107:7777=lucas8662.github.io/images/fast.jpg
